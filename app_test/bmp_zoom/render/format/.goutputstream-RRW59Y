@@ -1,6 +1,0 @@
-#include <config.h>
-#include <pic_operation.h>
-#include <stdlib.h>
-#include <string.h>
-
-#pragma pack(push)/* 
